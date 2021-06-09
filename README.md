@@ -356,10 +356,6 @@ If you feel like something is missing or you want to add any new functionality, 
 
 MIT
 
-## Contact
-
-João ([@_JARMourato](https://twitter.com/_JARMourato))
-
 [build status]: https://github.com/JARMourato/Kodable/actions?query=workflow%3ACI
 [build status badge]: https://github.com/JARMourato/Kodable/workflows/CI/badge.svg
 [codebeat status]: https://codebeat.co/projects/github-com-jarmourato-kodable-main
